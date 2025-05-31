@@ -1,16 +1,4 @@
 <h1> Hi 🙋🏻‍♂️ </h1>
-<h4>
-  
-┌─[ABy_x0x0@DigitalDefender]─ \
-└──╼ # whoami \
-Arnab Bhattacharjee \
-\
-┌─[ABy_x0x0@DigitalDefender]─ \
-└──╼ # hostname\
-An enthusiastic Purple Teamer 💻
-
-</h4>
-
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned </h2>
 
