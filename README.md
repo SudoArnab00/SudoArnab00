@@ -11,9 +11,6 @@ An enthusiastic Purple Teamer 💻
 
 </h4>
 
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Abyx0x0.png" alt="Your Image Badge" />
-
 <h3>  ---------------------------------------------------
   
   [Check out my Blog posts @ DigitalDefender](https://digitaldefender.in) 
