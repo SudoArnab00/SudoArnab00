@@ -1,14 +1,19 @@
-## Hi 🙋🏻‍♂️
-┌─[ABy_x0x0@DigitalDefender]─[/] \
+<h1> Hi 🙋🏻‍♂️ </h1>
+<h4>
+  
+┌─[ABy_x0x0@DigitalDefender]─ \
 └──╼ # whoami \
 Arnab Bhattacharjee \
 \
-┌─[ABy_x0x0@DigitalDefender]─[/]\
+┌─[ABy_x0x0@DigitalDefender]─ \
 └──╼ # hostname\
 An enthusiastic Purple Teamer 💻
 
+</h4>
+
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/Abyx0x0.png" alt="Your Image Badge" />
-/
+
 <h3>  ---------------------------------------------------
   
   [Check out my Blog posts @ DigitalDefender](https://digitaldefender.in) 
