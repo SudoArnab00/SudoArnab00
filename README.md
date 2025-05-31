@@ -11,11 +11,6 @@ An enthusiastic Purple Teamer 💻
 
 </h4>
 
-<h3>  ---------------------------------------------------
-  
-  [Check out my Blog posts @ DigitalDefender](https://digitaldefender.in) 
-  
-  ---------------------------------------------------</h3>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned </h2>
 
