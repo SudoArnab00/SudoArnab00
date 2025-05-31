@@ -8,9 +8,10 @@ Arnab Bhattacharjee \
 An enthusiastic Purple Teamer 💻
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Abyx0x0.png" alt="Your Image Badge" />
+/
+<h3> Check out my blog: https://digitaldefender.in </h3>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned </h2>
-
 
 ### 👨‍💻 Programming & Scripting
 <!--
