@@ -4,5 +4,5 @@ Arnab Bhattacharjee \
 \
 \
 ┌─[ABy_x0x0@DigitalDefender]─[/]\
-└──╼ # hostname<br>\
-A enthusiastic Purple Teamer 💻
+└──╼ # hostname\
+An enthusiastic Purple Teamer 💻
