@@ -1,6 +1,11 @@
-<h1> Hi 🙋🏻‍♂️ </h1>
+__*Discipline meets encryption.*__ &emsp;&emsp;&emsp;\\\\&emsp;&emsp;&emsp;&emsp; __*Own your data.*__ <br>
+&emsp;__*Progress is logged.*__ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;\\\\&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; __*Own your growth.*__ <br>
+&emsp;&emsp;&nbsp;__*Privacy is default.*__ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;\\\\&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; __*Build silently, strike smart.*__ <br>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned </h2>
+
+
+
+<h2> 🚀 &nbsp; Things we can talk about </h2>
 
 ### 👨‍💻 Programming & Scripting
 <!--
