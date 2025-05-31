@@ -11,12 +11,9 @@ An enthusiastic Purple Teamer 💻
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<img src="https://github.com/actions/starter-workflows/blob/main/icons/zscaler.svg" alt="vscode" width="45" height="45"/>
-<img src="https://github.com/cncf/landscape/blob/master/hosted_logos/vmware.svg" alt="bash" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/symantec/symantec-ar21.svg" alt="php" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="php" width="45" height="45"/>
-<img src="" alt="php" width="45" height="45"/>
-<img src="" alt="php" width="45" height="45"/>
-<img src="" alt="php" width="45" height="45"/>
-<img src="" alt="php" width="45" height="45"/>
+<img src="https://github.com/actions/starter-workflows/blob/main/icons/zscaler.svg" alt="vscode" width="90" height="55"/>
+<img src="https://github.com/cncf/landscape/blob/master/hosted_logos/vmware.svg" alt="bash" width="90" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/symantec/symantec-ar21.svg" alt="php" width="90" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="php" width="90" height="55"/>
+
 </p>
