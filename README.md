@@ -43,3 +43,5 @@ __*Discipline meets encryption.*__ &emsp;&emsp;&emsp;\\\\&emsp;&emsp;&emsp;&emsp
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SudoArnab00&theme=dark)](https://git.io/streak-stats)
